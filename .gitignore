@@ -1,0 +1,5 @@
+.vagrant/
+code/node_modules/
+code/package-lock.json
+code/mix-manifest.json
+html/
